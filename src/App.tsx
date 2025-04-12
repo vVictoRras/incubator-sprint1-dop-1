@@ -17,6 +17,7 @@ export type TasksType = {
     isDone: boolean
 }
 
+
 export type FilterValuesType = "all" | "active" | "completed";
 
 
